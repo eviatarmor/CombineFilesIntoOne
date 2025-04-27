@@ -16,7 +16,7 @@ A Python command-line tool that recursively scans directories and combines multi
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/file-combiner.git
+git clone https://github.com/eviatarmor/file-combiner.git
 cd file-combiner
 ```
 

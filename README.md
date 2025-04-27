@@ -117,29 +117,9 @@ Completed in 5.2s! Combined 462 files into output.txt
 - 🤖 Preparing code for AI analysis
 - 📝 Creating comprehensive project snapshots
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Author
-
-Your Name - [@yourusername](https://github.com/yourusername)
-
-## Acknowledgments
-
-- Thanks to all contributors who have helped improve this tool
-- Inspired by the need for better code documentation tools
-
 ---
 
 **Note**: This tool is designed for text files. Binary files will be skipped or may produce errors in the output.
